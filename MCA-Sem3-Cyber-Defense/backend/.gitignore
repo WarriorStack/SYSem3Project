@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+tests/tmp_models/
+app/ml/models/*.joblib
+.pytest_cache/
+*.egg-info/
